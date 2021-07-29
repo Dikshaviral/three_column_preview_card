@@ -6,7 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: https://github.com/Dikshaviral/three_column_preview_card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://dikshaviral.github.io/three_column_preview_card/
 
 ## My process
 
@@ -19,5 +19,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Website - (https://www.your-site.com)
+- Website - https://dikshaviral.github.io/index.html
 
